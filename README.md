@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AbanikantDas/ABANIKANTDAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Abanikant Das**.
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on improving my programming and problem-solving skills.
+* 🌱 I’m currently learning **C++, Java, Cybersecurity, and Kali Linux**.
+* 👯 I’m looking to collaborate on beginner-friendly and interesting projects.
+* 🤔 I’m looking for help with open-source contributions and advanced development concepts.
+* 💬 Ask me about **C++, Java, basic cybersecurity, and tech-related topics**.
+* 📫 How to reach me: Connect with me here on GitHub.
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I love exploring new technologies and learning something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Goals
+
+* Build useful projects.
+* Contribute to open source.
+* Keep growing as a developer.
+
+Thanks for visiting my profile! ⭐

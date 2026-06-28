@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Abanikant Das 👋<br><br>Aspiring Software Engineer focused on building scalable applications, exploring Artificial Intelligence, and solving real-world problems through technology.<br><br>* 💻 Building projects that combine software engineering and AI<br>* 🌱 Learning C++, Java, Cybersecurity, and Full-Stack Development<br>* 🤝 Open to collaboration and open-source contributions<br>* 🚀 Always building, always improving<br>
+# Hi, I'm Abanikant Das 👋<br><br>Aspiring Software Engineer focused on building scalable applications, exploring Artificial Intelligence, and solving real-world problems through technology.<br><br> 💻 Building projects that combine software engineering and AI<br>* 🌱 Learning C++, Java, Cybersecurity, and Full-Stack Development<br> 🤝 Open to collaboration and open-source contributions<br> 🚀 Always building, always improving<br>
 
 
 ## 🌐 Socials:
